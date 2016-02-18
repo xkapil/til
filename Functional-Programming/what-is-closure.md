@@ -1,1 +1,1 @@
-*__Closure__* are much like lambdas, except they reference variables outside the scope of the function.
+*__Closure__* are much like *lambdas*, except they reference variables outside the scope of the function.
