@@ -2,13 +2,13 @@
 
 ### Categories
 
-* [Functional-Programming](#Functional-Programming)
-* [Neo4j](#Neo4j)
-* [Refactoring](#Refactoring)
+* [Functional-Programming](#functional-programming)
+* [Neo4j](#neo4j)
+* [Refactoring](#refactoring)
 
 ---
 
-### Functional-Programming
+### Functional Programming
 
 - [What is Closure?](Functional-Programming/what-is-closure.md)
 
