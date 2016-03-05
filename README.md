@@ -5,6 +5,7 @@
 * [Functional-Programming](#functional-programming)
 * [Neo4j](#neo4j)
 * [Refactoring](#refactoring)
+* [Python](#python)
 
 ---
 
@@ -15,6 +16,10 @@
 ### Neo4j
 
 - [Locating Intial Node](Neo4j/locate-initial-node.md)
+
+### Python
+
+- [List Comprehensions](Python/list-comprehensions.md)
 
 ### Refactoring
 
