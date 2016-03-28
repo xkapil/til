@@ -3,6 +3,7 @@
 ### Categories
 
 * [Functional-Programming](#functional-programming)
+* [Git](#git)
 * [Neo4j](#neo4j)
 * [Refactoring](#refactoring)
 * [Python](#python)
@@ -12,6 +13,10 @@
 ### Functional Programming
 
 - [What is Closure?](Functional-Programming/what-is-closure.md)
+
+### Git
+
+- [Remote Tags](Git/remote-tags.md)
 
 ### Neo4j
 
