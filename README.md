@@ -32,3 +32,6 @@ ahdgsjdhg
 - [Flowchart for Refactoring](Refactoring/flowchart.md)
 Some different changes at the end of files to fix BugB
 askjdsjk
+newchnages
+newchnages
+newchnages2
